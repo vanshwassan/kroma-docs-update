@@ -115,6 +115,5 @@ Here are some additional developer resources
 - [API3 Market](https://market.api3.org/kroma)
 - [API3 Docs](https://docs.api3.org/)
 - [dAPI Docs](https://docs.api3.org/guides/dapis/)
-- [QRNG Docs](https://docs.api3.org/guides/qrng/)
 - [Github](https://github.com/api3dao/)
 - [Medium](https://medium.com/api3)
